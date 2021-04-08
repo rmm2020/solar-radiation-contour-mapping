@@ -5,10 +5,13 @@ Several Jupyter notebooks I used for a solar radiation mapping project. The Nati
 
 Some examples of the map images:
 
+#### Horizontal Irradiance in October
 ![example3](/Images/Example3.png)
 
+#### 30° Tilt in December
 ![example2](/Images/Example2.png)
 
+#### 90° Tilt (Vertical) Annual Average Irradiance
 ![example1](/Images/Example1.png)
 
 
