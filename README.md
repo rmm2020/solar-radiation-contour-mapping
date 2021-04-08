@@ -3,7 +3,7 @@
 
 Several Jupyter notebooks I used for a solar radiation mapping project. The National Renewable Energy Lab (NREL) website has an app called PVWatts that allows you to enter an address anywhere in the world and enter data about a solar installation and it will return solar radiation and power output information. I was interested in gathering just the solar radiation data at a variety of different angles and directional facings (e.g. N, E, S, W). For example, for solar windows, the solar panels would be tilt oriented vertically (90° angle), or perhaps 30° for a skylight. I used NREL's built-in API to pull data from locations around the world and create my own solar radiation database that I then used to create contour maps at different configurations. 
 
-Some examples of the map images:
+## Example Map Images
 
 #### Horizontal Irradiance in October
 ![example3](/Images/Example3.png)
