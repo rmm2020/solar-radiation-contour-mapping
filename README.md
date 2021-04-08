@@ -31,5 +31,4 @@ There is a use limit to the API call so the strategy I used to get latitude/long
 ## Plotting the Data
 PVWattsCartopyMap.ipynb and PVWattsCartopyMap-World.ipynb are the files where I queried location data from my solar radiation database, interpolated the values for contour mapping, and plotted them using the Cartopy mapping library. I mostly focused on the US and Europe. I would need to pull additional data to make completed maps for world mapping.
 
-![worldmap](/Images/World_West Vertical Solar Irradiance.png)
-![example3](/Images/Example3.png)
+![example4](/Images/Example4.png)
