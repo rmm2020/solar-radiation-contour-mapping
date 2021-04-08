@@ -5,7 +5,11 @@ Several Jupyter notebooks I used for a solar radiation mapping project. The Nati
 
 Some examples of the map images:
 
+![example3](/Images/Example3.png)
 
+![example2](/Images/Example2.png)
+
+![example1](/Images/Example1.png)
 
 
 ## Database Creation
