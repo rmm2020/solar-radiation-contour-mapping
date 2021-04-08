@@ -22,7 +22,7 @@ DatabaseSetup.ipynb file is where I created an SQLite database and table for sto
 PVWatts Query Testing.ipynb file is code where I tested single queries to make sure my API calls were working correctly 
 
 ## Pulling Solar Radiation Data
-PVWatts to Excel.ipynb file is where I iterated through some different configurations and added the data directly to an excel sheet for further anlysis
+PVWatts to Excel.ipynb file is where I iterated through some different configurations and added the data directly to an excel sheet for further analysis
 
 PVWatts Lat Lon Iterate.ipynb file is where I iterated through different latitude/longitudes and configuations to pull data using the PVWatts API and store it to my database. 
 
@@ -31,4 +31,4 @@ There is a use limit to the API call so the strategy I used to get latitude/long
 ## Plotting the Data
 PVWattsCartopyMap.ipynb and PVWattsCartopyMap-World.ipynb are the files where I queried location data from my solar radiation database, interpolated the values for contour mapping, and plotted them using the Cartopy mapping library. I mostly focused on the US and Europe. I would need to pull additional data to make completed maps for world mapping.
 
-![world map](/Images/World_West Vertical Solar Irradiance.png)
+![worldmap](/Images/World_West Vertical Solar Irradiance.png)
